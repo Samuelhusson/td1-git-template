@@ -1,11 +1,6 @@
-Aéroports
-
-Avions
-
-Rotations
-
-Vols
-
-Personnel
-
-Equipages
+Aéroports{}
+Avions{}
+Rotations{}
+Vols{}
+Personnel{}
+Equipages{}
