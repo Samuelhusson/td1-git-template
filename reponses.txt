@@ -1,0 +1,12 @@
+TD sur le contrôle de version GIT
+
+2) La commande "git status" permet de voir que le clone est à jour et qu'il n'y a pas de modifications.
+
+3.2) la commande "git status" permet de voir les modifications qui n'ont pas encore été add et commit dans la branche concernée.
+On peut donc voir où on en est de nos commit après une phase de travail ce qui est bien pratique.
+Il y a un fichier qui apparait comme n'étant pas add.
+3.4) On voit maintenant que le fichier a bien été add mais pas encore commit.
+3.6) On voit maintenant que le fichier est bien commit et est prêt à être push.
+
+3.8) La commande "git log --stat" permet de voir les différents commit et push des différents participants du projet et montre aussi quelques informations supplémentaires grâce à l'option --stat.
+
